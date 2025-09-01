@@ -2,7 +2,7 @@
 - 👀 I’m interested in Cybersecurity, Cloud Computing, Data Analysis and some Automatization.
 - 🌱 I’m currently re-learning Python ha ha, but I'm interested in C and Rust.
 - 💞️ I’m looking to collaborate on YouTube, but it's a far dream ha ha.
-- 📫 How to reach me. My LinkedIn is: 
+- 📫 How to reach me. My LinkedIn is: https://www.linkedin.com/in/mario-nunez-zapata/
 - 😄 Pronouns: dunno/-_-
 - ⚡ Fun fact: I forgot to upload some stuff to my GitHub ha ha.
 
